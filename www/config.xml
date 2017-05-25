@@ -3,17 +3,17 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.showdental.realdeal"
+        id        = "com.cbcsofra.realdeal"
         version   = "1.0.0">
 
-    <name>Showdental</name>
+    <name>CBC Sofra</name>
 
     <description>
-        Showdental
+        CBC Sofra
     </description>
 
-    <author href="http://www.showdental.com" email="info@showdental.com">
-        Showdental
+    <author href="http://cbcsofra.com" email="info@cbc-eg.com">
+        CBC Sofra
     </author>
 
     <preference name="phonegap-version" value="3.0.0" /> 
